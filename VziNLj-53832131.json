@@ -1,0 +1,1759 @@
+{
+  "release": {
+    "title": "中新健康丨预防脑出血：8个症状要留意，6个习惯赶紧改",
+    "editor": "张小凡",
+    "time": "2026-09-18 00:20:22"
+  },
+  "tracks": [
+    {
+      "lang": "en",
+      "format": "srt",
+      "url": "<code> www.752237.po1ker.cn </code>",
+      "size": 111,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh",
+      "format": "json",
+      "url": "<code> www.950946.po2ker.cn </code>",
+      "size": 152,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "srt",
+      "url": "<code> www.335567.po3ker.cn </code>",
+      "size": 122,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "srt",
+      "url": "<code> www.633571.po4ker.cn </code>",
+      "size": 95,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh",
+      "format": "vtt",
+      "url": "<code> www.8137.po5ker.cn </code>",
+      "size": 98,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "en",
+      "format": "ass",
+      "url": "<code> www.072416.po6ker.cn </code>",
+      "size": 157,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "en",
+      "format": "srt",
+      "url": "<code> www.880463.po7ker.cn </code>",
+      "size": 173,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "ass",
+      "url": "<code> www.319458.po8ker.cn </code>",
+      "size": 13,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "srt",
+      "url": "<code> www.3772.po9ker.cn </code>",
+      "size": 196,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "en",
+      "format": "srt",
+      "url": "<code> www.676828.po10ker.cn </code>",
+      "size": 190,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh",
+      "format": "ass",
+      "url": "<code> www.9078.po11ker.cn </code>",
+      "size": 139,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "en",
+      "format": "srt",
+      "url": "<code> www.25863.po12ker.cn </code>",
+      "size": 22,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "ass",
+      "url": "<code> www.26089.po13ker.cn </code>",
+      "size": 150,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "srt",
+      "url": "<code> www.6852.po14ker.cn </code>",
+      "size": 214,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "json",
+      "url": "<code> www.699187.po15ker.cn </code>",
+      "size": 56,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "json",
+      "url": "<code> www.69706.po16ker.cn </code>",
+      "size": 98,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "vtt",
+      "url": "<code> www.59170.po17ker.cn </code>",
+      "size": 184,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "srt",
+      "url": "<code> www.62875.po18ker.cn </code>",
+      "size": 240,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "en",
+      "format": "vtt",
+      "url": "<code> www.98215.po19ker.cn </code>",
+      "size": 200,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "srt",
+      "url": "<code> www.45085.po20ker.cn </code>",
+      "size": 4,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "json",
+      "url": "<code> www.2744.po21ker.cn </code>",
+      "size": 86,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "en",
+      "format": "vtt",
+      "url": "<code> www.8328.po22ker.cn </code>",
+      "size": 93,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "json",
+      "url": "<code> www.614395.po23ker.cn </code>",
+      "size": 18,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "json",
+      "url": "<code> www.42083.po24ker.cn </code>",
+      "size": 172,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "ja",
+      "format": "srt",
+      "url": "<code> www.073967.po25ker.cn </code>",
+      "size": 200,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "en",
+      "format": "ass",
+      "url": "<code> www.2074.po26ker.cn </code>",
+      "size": 64,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "en",
+      "format": "srt",
+      "url": "<code> www.797646.po27ker.cn </code>",
+      "size": 159,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "json",
+      "url": "<code> www.13436.po28ker.cn </code>",
+      "size": 60,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "json",
+      "url": "<code> www.925834.po29ker.cn </code>",
+      "size": 235,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "srt",
+      "url": "<code> www.188710.po30ker.cn </code>",
+      "size": 230,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh",
+      "format": "json",
+      "url": "<code> www.816626.po31ker.cn </code>",
+      "size": 220,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "vtt",
+      "url": "<code> www.3126.po32ker.cn </code>",
+      "size": 213,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "json",
+      "url": "<code> www.495777.po33ker.cn </code>",
+      "size": 85,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "vtt",
+      "url": "<code> www.314235.po34ker.cn </code>",
+      "size": 26,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "json",
+      "url": "<code> www.239412.po35ker.cn </code>",
+      "size": 200,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "json",
+      "url": "<code> www.61343.po36ker.cn </code>",
+      "size": 93,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "ass",
+      "url": "<code> www.124494.po37ker.cn </code>",
+      "size": 20,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "ja",
+      "format": "ass",
+      "url": "<code> www.871495.po38ker.cn </code>",
+      "size": 166,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "en",
+      "format": "ass",
+      "url": "<code> www.23078.po39ker.cn </code>",
+      "size": 8,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "en",
+      "format": "json",
+      "url": "<code> www.693217.po40ker.cn </code>",
+      "size": 43,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "vtt",
+      "url": "<code> www.7554.po41ker.cn </code>",
+      "size": 220,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "json",
+      "url": "<code> www.895930.po42ker.cn </code>",
+      "size": 62,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "en",
+      "format": "json",
+      "url": "<code> www.918735.po43ker.cn </code>",
+      "size": 109,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "vtt",
+      "url": "<code> www.42355.po44ker.cn </code>",
+      "size": 74,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "vtt",
+      "url": "<code> www.0571.po45ker.cn </code>",
+      "size": 119,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh",
+      "format": "ass",
+      "url": "<code> www.2757.po46ker.cn </code>",
+      "size": 57,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "ass",
+      "url": "<code> www.393615.po47ker.cn </code>",
+      "size": 130,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh",
+      "format": "srt",
+      "url": "<code> www.978456.po48ker.cn </code>",
+      "size": 67,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "srt",
+      "url": "<code> www.921460.po49ker.cn </code>",
+      "size": 6,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "en",
+      "format": "json",
+      "url": "<code> www.4922.po50ker.cn </code>",
+      "size": 8,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "ass",
+      "url": "<code> 33119.hhpo1ker.org.cn </code>",
+      "size": 73,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "srt",
+      "url": "<code> 50758.hhpo2ker.org.cn </code>",
+      "size": 36,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "json",
+      "url": "<code> 20368.hhpo3ker.org.cn </code>",
+      "size": 68,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "srt",
+      "url": "<code> 739874.hhpo4ker.org.cn </code>",
+      "size": 90,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "vtt",
+      "url": "<code> 00654.hhpo5ker.org.cn </code>",
+      "size": 14,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "json",
+      "url": "<code> 313120.hhpo6ker.org.cn </code>",
+      "size": 10,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "en",
+      "format": "ass",
+      "url": "<code> 655441.hhpo7ker.org.cn </code>",
+      "size": 3,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "ass",
+      "url": "<code> 779321.hhpo8ker.org.cn </code>",
+      "size": 225,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "srt",
+      "url": "<code> 9602.hhpo9ker.org.cn </code>",
+      "size": 43,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "ja",
+      "format": "json",
+      "url": "<code> 8898.hhpo10ker.org.cn </code>",
+      "size": 140,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "srt",
+      "url": "<code> 207120.hhpo11ker.org.cn </code>",
+      "size": 149,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "en",
+      "format": "json",
+      "url": "<code> 3898.hhpo12ker.org.cn </code>",
+      "size": 155,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "json",
+      "url": "<code> 9886.hhpo13ker.org.cn </code>",
+      "size": 26,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "vtt",
+      "url": "<code> 14394.hhpo14ker.org.cn </code>",
+      "size": 167,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "ass",
+      "url": "<code> 90664.hhpo15ker.org.cn </code>",
+      "size": 56,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "vtt",
+      "url": "<code> 9156.hhpo16ker.org.cn </code>",
+      "size": 181,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "ass",
+      "url": "<code> 461159.hhpo17ker.org.cn </code>",
+      "size": 150,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "vtt",
+      "url": "<code> 91047.hhpo18ker.org.cn </code>",
+      "size": 121,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "json",
+      "url": "<code> 47190.hhpo19ker.org.cn </code>",
+      "size": 188,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "ass",
+      "url": "<code> 81377.hhpo20ker.org.cn </code>",
+      "size": 57,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "vtt",
+      "url": "<code> 2001.hhpo21ker.org.cn </code>",
+      "size": 60,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "en",
+      "format": "ass",
+      "url": "<code> 2232.hhpo22ker.org.cn </code>",
+      "size": 197,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "json",
+      "url": "<code> 781170.hhpo23ker.org.cn </code>",
+      "size": 55,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "en",
+      "format": "srt",
+      "url": "<code> 5516.hhpo24ker.org.cn </code>",
+      "size": 137,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "ass",
+      "url": "<code> 458089.hhpo25ker.org.cn </code>",
+      "size": 35,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "json",
+      "url": "<code> 242925.hhpo26ker.org.cn </code>",
+      "size": 176,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "srt",
+      "url": "<code> 91040.hhpo27ker.org.cn </code>",
+      "size": 147,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "en",
+      "format": "json",
+      "url": "<code> 885044.hhpo28ker.org.cn </code>",
+      "size": 80,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh",
+      "format": "vtt",
+      "url": "<code> 26189.hhpo29ker.org.cn </code>",
+      "size": 178,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh",
+      "format": "json",
+      "url": "<code> 63877.hhpo30ker.org.cn </code>",
+      "size": 149,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "json",
+      "url": "<code> 85522.hhpo31ker.org.cn </code>",
+      "size": 127,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "vtt",
+      "url": "<code> 992945.hhpo32ker.org.cn </code>",
+      "size": 118,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "srt",
+      "url": "<code> 750669.hhpo33ker.org.cn </code>",
+      "size": 72,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "srt",
+      "url": "<code> 9394.hhpo34ker.org.cn </code>",
+      "size": 20,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "ja",
+      "format": "ass",
+      "url": "<code> 349448.hhpo35ker.org.cn </code>",
+      "size": 197,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "srt",
+      "url": "<code> 01864.hhpo36ker.org.cn </code>",
+      "size": 135,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "ass",
+      "url": "<code> 12859.hhpo37ker.org.cn </code>",
+      "size": 60,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "json",
+      "url": "<code> 0728.hhpo38ker.org.cn </code>",
+      "size": 71,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "srt",
+      "url": "<code> 691952.hhpo39ker.org.cn </code>",
+      "size": 135,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "en",
+      "format": "ass",
+      "url": "<code> 44337.hhpo40ker.org.cn </code>",
+      "size": 142,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "ass",
+      "url": "<code> 215005.hhpo41ker.org.cn </code>",
+      "size": 199,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "srt",
+      "url": "<code> 145814.hhpo42ker.org.cn </code>",
+      "size": 232,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "ass",
+      "url": "<code> 6689.hhpo43ker.org.cn </code>",
+      "size": 213,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "en",
+      "format": "json",
+      "url": "<code> 759951.hhpo44ker.org.cn </code>",
+      "size": 10,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "ja",
+      "format": "srt",
+      "url": "<code> 02846.hhpo45ker.org.cn </code>",
+      "size": 105,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "ass",
+      "url": "<code> 85203.hhpo46ker.org.cn </code>",
+      "size": 152,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "ja",
+      "format": "ass",
+      "url": "<code> 715979.hhpo47ker.org.cn </code>",
+      "size": 199,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "srt",
+      "url": "<code> 2879.hhpo48ker.org.cn </code>",
+      "size": 49,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "json",
+      "url": "<code> 88438.hhpo49ker.org.cn </code>",
+      "size": 82,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "en",
+      "format": "ass",
+      "url": "<code> 037542.hhpo50ker.org.cn </code>",
+      "size": 99,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "vtt",
+      "url": "<code> 052753.po1ker.cn </code>",
+      "size": 220,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "json",
+      "url": "<code> 58434.po2ker.cn </code>",
+      "size": 235,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "ja",
+      "format": "vtt",
+      "url": "<code> 645276.po3ker.cn </code>",
+      "size": 35,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "ass",
+      "url": "<code> 1586.po4ker.cn </code>",
+      "size": 164,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh",
+      "format": "json",
+      "url": "<code> 1207.po5ker.cn </code>",
+      "size": 129,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "vtt",
+      "url": "<code> 74882.po6ker.cn </code>",
+      "size": 36,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "vtt",
+      "url": "<code> 0744.po7ker.cn </code>",
+      "size": 25,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "srt",
+      "url": "<code> 8763.po8ker.cn </code>",
+      "size": 35,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "en",
+      "format": "json",
+      "url": "<code> 39216.po9ker.cn </code>",
+      "size": 3,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "ass",
+      "url": "<code> 938220.po10ker.cn </code>",
+      "size": 69,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "ja",
+      "format": "json",
+      "url": "<code> 82553.po11ker.cn </code>",
+      "size": 24,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "vtt",
+      "url": "<code> 47568.po12ker.cn </code>",
+      "size": 38,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "vtt",
+      "url": "<code> 485977.po13ker.cn </code>",
+      "size": 87,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "vtt",
+      "url": "<code> 32123.po14ker.cn </code>",
+      "size": 131,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "vtt",
+      "url": "<code> 4149.po15ker.cn </code>",
+      "size": 135,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "ass",
+      "url": "<code> 063918.po16ker.cn </code>",
+      "size": 49,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "json",
+      "url": "<code> 9477.po17ker.cn </code>",
+      "size": 51,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "vtt",
+      "url": "<code> 5975.po18ker.cn </code>",
+      "size": 76,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "vtt",
+      "url": "<code> 601926.po19ker.cn </code>",
+      "size": 15,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "srt",
+      "url": "<code> 9732.po20ker.cn </code>",
+      "size": 218,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "vtt",
+      "url": "<code> 965447.po21ker.cn </code>",
+      "size": 7,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "srt",
+      "url": "<code> 4117.po22ker.cn </code>",
+      "size": 95,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "vtt",
+      "url": "<code> 5431.po23ker.cn </code>",
+      "size": 41,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "en",
+      "format": "ass",
+      "url": "<code> 809524.po24ker.cn </code>",
+      "size": 210,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "vtt",
+      "url": "<code> 433285.po25ker.cn </code>",
+      "size": 77,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "en",
+      "format": "srt",
+      "url": "<code> 4393.po26ker.cn </code>",
+      "size": 105,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "json",
+      "url": "<code> 888144.po27ker.cn </code>",
+      "size": 98,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh",
+      "format": "srt",
+      "url": "<code> 29026.po28ker.cn </code>",
+      "size": 117,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "ass",
+      "url": "<code> 96759.po29ker.cn </code>",
+      "size": 154,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "ja",
+      "format": "vtt",
+      "url": "<code> 375445.po30ker.cn </code>",
+      "size": 116,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "vtt",
+      "url": "<code> 7496.po31ker.cn </code>",
+      "size": 127,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "en",
+      "format": "json",
+      "url": "<code> 09610.po32ker.cn </code>",
+      "size": 3,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "vtt",
+      "url": "<code> 1574.po33ker.cn </code>",
+      "size": 79,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "ja",
+      "format": "vtt",
+      "url": "<code> 8259.po34ker.cn </code>",
+      "size": 131,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "en",
+      "format": "srt",
+      "url": "<code> 678012.po35ker.cn </code>",
+      "size": 169,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "en",
+      "format": "srt",
+      "url": "<code> 837012.po36ker.cn </code>",
+      "size": 94,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "en",
+      "format": "vtt",
+      "url": "<code> 80929.po37ker.cn </code>",
+      "size": 186,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "en",
+      "format": "srt",
+      "url": "<code> 4433.po38ker.cn </code>",
+      "size": 18,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "vtt",
+      "url": "<code> 75054.po39ker.cn </code>",
+      "size": 124,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "json",
+      "url": "<code> 14210.po40ker.cn </code>",
+      "size": 224,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "en",
+      "format": "srt",
+      "url": "<code> 48892.po41ker.cn </code>",
+      "size": 99,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "json",
+      "url": "<code> 2004.po42ker.cn </code>",
+      "size": 92,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "srt",
+      "url": "<code> 02738.po43ker.cn </code>",
+      "size": 218,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "en",
+      "format": "vtt",
+      "url": "<code> 4411.po44ker.cn </code>",
+      "size": 205,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "json",
+      "url": "<code> 5644.po45ker.cn </code>",
+      "size": 150,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "vtt",
+      "url": "<code> 4669.po46ker.cn </code>",
+      "size": 37,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "en",
+      "format": "ass",
+      "url": "<code> 6487.po47ker.cn </code>",
+      "size": 142,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "srt",
+      "url": "<code> 0229.po48ker.cn </code>",
+      "size": 123,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "ja",
+      "format": "json",
+      "url": "<code> 207780.po49ker.cn </code>",
+      "size": 223,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "en",
+      "format": "srt",
+      "url": "<code> 4979.po50ker.cn </code>",
+      "size": 142,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "vtt",
+      "url": "<code> muabqd.hhpo1ker.org.cn </code>",
+      "size": 27,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "vtt",
+      "url": "<code> ruietn.hhpo2ker.org.cn </code>",
+      "size": 126,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "ja",
+      "format": "srt",
+      "url": "<code> fsrkaq.hhpo3ker.org.cn </code>",
+      "size": 23,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh",
+      "format": "vtt",
+      "url": "<code> tyymy.hhpo4ker.org.cn </code>",
+      "size": 224,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "srt",
+      "url": "<code> knkgx.hhpo5ker.org.cn </code>",
+      "size": 102,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "vtt",
+      "url": "<code> grvyn.hhpo6ker.org.cn </code>",
+      "size": 75,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "json",
+      "url": "<code> umso.hhpo7ker.org.cn </code>",
+      "size": 94,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "vtt",
+      "url": "<code> btpneb.hhpo8ker.org.cn </code>",
+      "size": 23,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "en",
+      "format": "vtt",
+      "url": "<code> wstrv.hhpo9ker.org.cn </code>",
+      "size": 69,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "vtt",
+      "url": "<code> bikplf.hhpo10ker.org.cn </code>",
+      "size": 216,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "json",
+      "url": "<code> pmqmu.hhpo11ker.org.cn </code>",
+      "size": 71,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "ja",
+      "format": "json",
+      "url": "<code> efou.hhpo12ker.org.cn </code>",
+      "size": 149,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "ass",
+      "url": "<code> rbmwti.hhpo13ker.org.cn </code>",
+      "size": 134,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "json",
+      "url": "<code> wtms.hhpo14ker.org.cn </code>",
+      "size": 137,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "vtt",
+      "url": "<code> kocy.hhpo15ker.org.cn </code>",
+      "size": 83,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "json",
+      "url": "<code> rwxxfy.hhpo16ker.org.cn </code>",
+      "size": 222,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "vtt",
+      "url": "<code> bzrttv.hhpo17ker.org.cn </code>",
+      "size": 145,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "vtt",
+      "url": "<code> ugjbc.hhpo18ker.org.cn </code>",
+      "size": 189,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "en",
+      "format": "ass",
+      "url": "<code> hxxg.hhpo19ker.org.cn </code>",
+      "size": 54,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "json",
+      "url": "<code> grmzd.hhpo20ker.org.cn </code>",
+      "size": 86,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh",
+      "format": "vtt",
+      "url": "<code> huecz.hhpo21ker.org.cn </code>",
+      "size": 64,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "srt",
+      "url": "<code> vlce.hhpo22ker.org.cn </code>",
+      "size": 120,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "ass",
+      "url": "<code> bsar.hhpo23ker.org.cn </code>",
+      "size": 46,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "vtt",
+      "url": "<code> lsioje.hhpo24ker.org.cn </code>",
+      "size": 140,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "srt",
+      "url": "<code> pkzo.hhpo25ker.org.cn </code>",
+      "size": 139,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "json",
+      "url": "<code> epygy.hhpo26ker.org.cn </code>",
+      "size": 99,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "vtt",
+      "url": "<code> xpkrb.hhpo27ker.org.cn </code>",
+      "size": 31,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "ass",
+      "url": "<code> vipvdo.hhpo28ker.org.cn </code>",
+      "size": 234,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "json",
+      "url": "<code> lwlf.hhpo29ker.org.cn </code>",
+      "size": 53,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "ass",
+      "url": "<code> vrakq.hhpo30ker.org.cn </code>",
+      "size": 210,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "ass",
+      "url": "<code> dxlig.hhpo31ker.org.cn </code>",
+      "size": 103,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "srt",
+      "url": "<code> axpfkr.hhpo32ker.org.cn </code>",
+      "size": 45,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "json",
+      "url": "<code> gkcxk.hhpo33ker.org.cn </code>",
+      "size": 199,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "srt",
+      "url": "<code> ndmkev.hhpo34ker.org.cn </code>",
+      "size": 205,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "srt",
+      "url": "<code> oqytqn.hhpo35ker.org.cn </code>",
+      "size": 92,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "ass",
+      "url": "<code> tweinq.hhpo36ker.org.cn </code>",
+      "size": 193,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "ja",
+      "format": "json",
+      "url": "<code> ptlzj.hhpo37ker.org.cn </code>",
+      "size": 104,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "json",
+      "url": "<code> pjehkb.hhpo38ker.org.cn </code>",
+      "size": 141,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "json",
+      "url": "<code> pamcic.hhpo39ker.org.cn </code>",
+      "size": 16,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "srt",
+      "url": "<code> acvn.hhpo40ker.org.cn </code>",
+      "size": 40,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "json",
+      "url": "<code> inhaya.hhpo41ker.org.cn </code>",
+      "size": 3,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "ja",
+      "format": "vtt",
+      "url": "<code> tywo.hhpo42ker.org.cn </code>",
+      "size": 156,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "vtt",
+      "url": "<code> zqdlb.hhpo43ker.org.cn </code>",
+      "size": 92,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "ass",
+      "url": "<code> wnufln.hhpo44ker.org.cn </code>",
+      "size": 84,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "ja",
+      "format": "vtt",
+      "url": "<code> nckmtk.hhpo45ker.org.cn </code>",
+      "size": 172,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "ass",
+      "url": "<code> bcclt.hhpo46ker.org.cn </code>",
+      "size": 135,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "vtt",
+      "url": "<code> stvjk.hhpo47ker.org.cn </code>",
+      "size": 149,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "vtt",
+      "url": "<code> yvgrqu.hhpo48ker.org.cn </code>",
+      "size": 17,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "srt",
+      "url": "<code> ejnu.hhpo49ker.org.cn </code>",
+      "size": 163,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "srt",
+      "url": "<code> zkfyjp.hhpo50ker.org.cn </code>",
+      "size": 239,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "vtt",
+      "url": "<code> fxpv.po1ker.cn </code>",
+      "size": 139,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "json",
+      "url": "<code> ohdjy.po2ker.cn </code>",
+      "size": 142,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "srt",
+      "url": "<code> blmq.po3ker.cn </code>",
+      "size": 96,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "ass",
+      "url": "<code> inim.po4ker.cn </code>",
+      "size": 220,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "json",
+      "url": "<code> tclhj.po5ker.cn </code>",
+      "size": 187,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "vtt",
+      "url": "<code> mveoc.po6ker.cn </code>",
+      "size": 49,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "vtt",
+      "url": "<code> kzegey.po7ker.cn </code>",
+      "size": 173,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "srt",
+      "url": "<code> llzvr.po8ker.cn </code>",
+      "size": 231,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "en",
+      "format": "ass",
+      "url": "<code> hceoi.po9ker.cn </code>",
+      "size": 183,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "ass",
+      "url": "<code> ludxl.po10ker.cn </code>",
+      "size": 149,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "ass",
+      "url": "<code> njuue.po11ker.cn </code>",
+      "size": 102,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "srt",
+      "url": "<code> wbibyh.po12ker.cn </code>",
+      "size": 14,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "json",
+      "url": "<code> xdbznz.po13ker.cn </code>",
+      "size": 154,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "vtt",
+      "url": "<code> vvsu.po14ker.cn </code>",
+      "size": 185,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "srt",
+      "url": "<code> ehwvu.po15ker.cn </code>",
+      "size": 196,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "vtt",
+      "url": "<code> kxjn.po16ker.cn </code>",
+      "size": 208,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "vtt",
+      "url": "<code> uaer.po17ker.cn </code>",
+      "size": 103,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh",
+      "format": "json",
+      "url": "<code> ebwif.po18ker.cn </code>",
+      "size": 128,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "en",
+      "format": "ass",
+      "url": "<code> bmfc.po19ker.cn </code>",
+      "size": 58,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "ja",
+      "format": "srt",
+      "url": "<code> xyzg.po20ker.cn </code>",
+      "size": 203,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "json",
+      "url": "<code> fkks.po21ker.cn </code>",
+      "size": 235,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "srt",
+      "url": "<code> foij.po22ker.cn </code>",
+      "size": 59,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "vtt",
+      "url": "<code> coaqzk.po23ker.cn </code>",
+      "size": 223,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "en",
+      "format": "json",
+      "url": "<code> mhns.po24ker.cn </code>",
+      "size": 79,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "vtt",
+      "url": "<code> obqi.po25ker.cn </code>",
+      "size": 158,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "vtt",
+      "url": "<code> bnqgo.po26ker.cn </code>",
+      "size": 30,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "vtt",
+      "url": "<code> jmgcx.po27ker.cn </code>",
+      "size": 12,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "srt",
+      "url": "<code> gkooy.po28ker.cn </code>",
+      "size": 40,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh",
+      "format": "ass",
+      "url": "<code> ackf.po29ker.cn </code>",
+      "size": 23,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "ass",
+      "url": "<code> pwfbs.po30ker.cn </code>",
+      "size": 189,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "srt",
+      "url": "<code> pcsqf.po31ker.cn </code>",
+      "size": 114,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "ja",
+      "format": "json",
+      "url": "<code> nkvny.po32ker.cn </code>",
+      "size": 108,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "vtt",
+      "url": "<code> ofuac.po33ker.cn </code>",
+      "size": 10,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "ass",
+      "url": "<code> wsos.po34ker.cn </code>",
+      "size": 25,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "json",
+      "url": "<code> qzjcg.po35ker.cn </code>",
+      "size": 175,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "en",
+      "format": "srt",
+      "url": "<code> iivl.po36ker.cn </code>",
+      "size": 165,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "ja",
+      "format": "srt",
+      "url": "<code> dfkkt.po37ker.cn </code>",
+      "size": 21,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "srt",
+      "url": "<code> tszbu.po38ker.cn </code>",
+      "size": 195,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "vtt",
+      "url": "<code> vbvvg.po39ker.cn </code>",
+      "size": 99,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh",
+      "format": "vtt",
+      "url": "<code> fkhqzw.po40ker.cn </code>",
+      "size": 114,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "srt",
+      "url": "<code> ljgi.po41ker.cn </code>",
+      "size": 40,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "srt",
+      "url": "<code> jbxt.po42ker.cn </code>",
+      "size": 66,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "en",
+      "format": "vtt",
+      "url": "<code> innoz.po43ker.cn </code>",
+      "size": 233,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh",
+      "format": "ass",
+      "url": "<code> cfsl.po44ker.cn </code>",
+      "size": 131,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "ass",
+      "url": "<code> yzil.po45ker.cn </code>",
+      "size": 5,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "ass",
+      "url": "<code> skep.po46ker.cn </code>",
+      "size": 73,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "ass",
+      "url": "<code> veil.po47ker.cn </code>",
+      "size": 220,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "srt",
+      "url": "<code> tjmqb.po48ker.cn </code>",
+      "size": 181,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "json",
+      "url": "<code> ooofc.po49ker.cn </code>",
+      "size": 27,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "srt",
+      "url": "<code> tehi.po50ker.cn </code>",
+      "size": 169,
+      "encoding": "gbk"
+    }
+  ]
+}
